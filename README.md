@@ -22,6 +22,6 @@ The project is organized into the following main components:
 
 #Dependencies
 
-Python
-NLTK
+Python,
+NLTK,
 Scikit-learn
